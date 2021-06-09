@@ -1,4 +1,3 @@
-<<<<<<< HEAD
   [
 	{
   		"personal_pronoun": "Yo",
@@ -25,31 +24,3 @@
   		"conjugation": "abandonan"
   	}
   ]
-=======
-  [
-	{
-  		"personal_pronoun": "Yo",
-  		"conjugation": "abandono"
-  	},
-  	{
-  		"personal_pronoun": "Tú",
-  		"conjugation": "abandonas"
-  	},
-  	{
-  		"personal_pronoun": "Él/Ella/Usted",
-  		"conjugation": "abandona"
-  	},
-  	{
-  		"personal_pronoun": "Nosotros",
-  		"conjugation": "abandonamos"
-  	},
-  	{
-  		"personal_pronoun": "Vosotros",
-  		"conjugation": "abandonáis"
-  	},
-  	{
-  		"personal_pronoun": "Ellos/Ellas/Ustedes",
-  		"conjugation": "abandonan"
-  	}
-  ]
->>>>>>> 3ab4d9c5fbd65e1f95ed67effcb543e0c4b2b895
