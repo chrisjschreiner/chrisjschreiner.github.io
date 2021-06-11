@@ -1,8 +1,14 @@
-﻿{
-  "Yo": "abordo",
-  "Tú": "abordas",
-  "Él/Ella/Usted": "aborda",
-  "Nosotros": "abordamos",
-  "Vosotros": "abordáis",
-  "Ellos/Ellas/Ustedes": "abordan"
-}
+﻿[
+  {
+    "infinitive": "abordar",
+    "definition": "to board, get on [plane, bus, etc.]; to approach, accost [a person]"
+  },
+  {
+    "Yo": "abordo",
+    "Tú": "abordas",
+    "Él/Ella/Usted": "aborda",
+    "Nosotros": "abordamos",
+    "Vosotros": "abordáis",
+    "Ellos/Ellas/Ustedes": "abordan"
+  }
+]
