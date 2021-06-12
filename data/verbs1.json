@@ -10,5 +10,141 @@
     "Nosotros": "abordamos",
     "Vosotros": "abordáis",
     "Ellos/Ellas/Ustedes": "abordan"
+  },
+  {
+    "form_1s": "abordaré",
+    "form_2s": "abordarás",
+    "form_3s": "abordará",
+    "form_1p": "abordaremos",
+    "form_2p": "abordaréis",
+    "form_3p": "abordarán"
+  },
+  {
+    "form_1s": "abordaba",
+    "form_2s": "abordabas",
+    "form_3s": "abordaba",
+    "form_1p": "abordábamos",
+    "form_2p": "abordabais",
+    "form_3p": "abordaban"
+  },
+  {
+    "form_1s": "abordé",
+    "form_2s": "abordaste",
+    "form_3s": "abordó",
+    "form_1p": "abordamos",
+    "form_2p": "abordasteis",
+    "form_3p": "abordaron"
+  },
+  {
+    "form_1s": "abordaría",
+    "form_2s": "abordarías",
+    "form_3s": "abordaría",
+    "form_1p": "abordaríamos",
+    "form_2p": "abordaríais",
+    "form_3p": "abordarían"
+  },
+  {
+    "form_1s": "he abordado",
+    "form_2s": "has abordado",
+    "form_3s": "ha abordado",
+    "form_1p": "hemos abordado",
+    "form_2p": "habéis abordado",
+    "form_3p": "han abordado"
+  },
+  {
+    "form_1s": "habré abordado",
+    "form_2s": "habrás abordado",
+    "form_3s": "habrá abordado",
+    "form_1p": "habremos abordado",
+    "form_2p": "habréis abordado",
+    "form_3p": "habrán abordado"
+  },
+  {
+    "form_1s": "había abordado",
+    "form_2s": "habías abordado",
+    "form_3s": "había abordado",
+    "form_1p": "habíamos abordado",
+    "form_2p": "habíais abordado",
+    "form_3p": "habían abordado"
+  },
+  {
+    "form_1s": "hube abordado",
+    "form_2s": "hubiste abordado",
+    "form_3s": "hubo abordado",
+    "form_1p": "hubimos abordado",
+    "form_2p": "hubisteis abordado",
+    "form_3p": "hubieron abordado"
+  },
+  {
+    "form_1s": "habría abordado",
+    "form_2s": "habrías abordado",
+    "form_3s": "habría abordado",
+    "form_1p": "habríamos abordado",
+    "form_2p": "habríais abordado",
+    "form_3p": "habrían abordado"
+  },
+  {
+    "form_1s": "aborde",
+    "form_2s": "abordes",
+    "form_3s": "aborde",
+    "form_1p": "abordemos",
+    "form_2p": "abordéis",
+    "form_3p": "aborden"
+  },
+  {
+    "form_1s": "abordara",
+    "form_2s": "abordaras",
+    "form_3s": "abordara",
+    "form_1p": "abordáramos",
+    "form_2p": "abordarais",
+    "form_3p": "abordaran"
+  },
+  {
+    "form_1s": "abordare",
+    "form_2s": "abordares",
+    "form_3s": "abordare",
+    "form_1p": "abordáremos",
+    "form_2p": "abordareis",
+    "form_3p": "abordaren"
+  },
+  {
+    "form_1s": "haya abordado",
+    "form_2s": "hayas abordado",
+    "form_3s": "haya abordado",
+    "form_1p": "hayamos abordado",
+    "form_2p": "hayáis abordado",
+    "form_3p": "hayan abordado"
+  },
+  {
+    "form_1s": "hubiere abordado",
+    "form_2s": "hubieres abordado",
+    "form_3s": "hubiere abordado",
+    "form_1p": "hubiéremos abordado",
+    "form_2p": "hubiereis abordado",
+    "form_3p": "hubieren abordado"
+  },
+  {
+    "form_1s": "hubiera abordado",
+    "form_2s": "hubieras abordado",
+    "form_3s": "hubiera abordado",
+    "form_1p": "hubiéramos abordado",
+    "form_2p": "hubierais abordado",
+    "form_3p": "hubieran abordado"
+  },
+  {
+    "form_1s": "",
+    "form_2s": "aborda",
+    "form_3s": "abordad",
+    "form_1p": "",
+    "form_2p": "aborde",
+    "form_3p": "aborden"
+  },
+  {
+    "form_1s": "",
+    "form_2s": "no abordes",
+    "form_3s": "no abordéis",
+    "form_1p": "",
+    "form_2p": "no aborde",
+    "form_3p": "no aborden"
   }
 ]
