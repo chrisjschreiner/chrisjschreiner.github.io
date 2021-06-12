@@ -12,139 +12,139 @@
     "Ellos/Ellas/Ustedes": "abordan"
   },
   {
-    "form_1s": "abordaré",
-    "form_2s": "abordarás",
-    "form_3s": "abordará",
-    "form_1p": "abordaremos",
-    "form_2p": "abordaréis",
-    "form_3p": "abordarán"
+    "Yo": "abordaré",
+    "Tú": "abordarás",
+    "Él/Ella/Usted": "abordará",
+    "Nosotros": "abordaremos",
+    "Vosotros": "abordaréis",
+    "Ellos/Ellas/Ustedes": "abordarán"
   },
   {
-    "form_1s": "abordaba",
-    "form_2s": "abordabas",
-    "form_3s": "abordaba",
-    "form_1p": "abordábamos",
-    "form_2p": "abordabais",
-    "form_3p": "abordaban"
+    "Yo": "abordaba",
+    "Tú": "abordabas",
+    "Él/Ella/Usted": "abordaba",
+    "Nosotros": "abordábamos",
+    "Vosotros": "abordabais",
+    "Ellos/Ellas/Ustedes": "abordaban"
   },
   {
-    "form_1s": "abordé",
-    "form_2s": "abordaste",
-    "form_3s": "abordó",
-    "form_1p": "abordamos",
-    "form_2p": "abordasteis",
-    "form_3p": "abordaron"
+    "Yo": "abordé",
+    "Tú": "abordaste",
+    "Él/Ella/Usted": "abordó",
+    "Nosotros": "abordamos",
+    "Vosotros": "abordasteis",
+    "Ellos/Ellas/Ustedes": "abordaron"
   },
   {
-    "form_1s": "abordaría",
-    "form_2s": "abordarías",
-    "form_3s": "abordaría",
-    "form_1p": "abordaríamos",
-    "form_2p": "abordaríais",
-    "form_3p": "abordarían"
+    "Yo": "abordaría",
+    "Tú": "abordarías",
+    "Él/Ella/Usted": "abordaría",
+    "Nosotros": "abordaríamos",
+    "Vosotros": "abordaríais",
+    "Ellos/Ellas/Ustedes": "abordarían"
   },
   {
-    "form_1s": "he abordado",
-    "form_2s": "has abordado",
-    "form_3s": "ha abordado",
-    "form_1p": "hemos abordado",
-    "form_2p": "habéis abordado",
-    "form_3p": "han abordado"
+    "Yo": "he abordado",
+    "Tú": "has abordado",
+    "Él/Ella/Usted": "ha abordado",
+    "Nosotros": "hemos abordado",
+    "Vosotros": "habéis abordado",
+    "Ellos/Ellas/Ustedes": "han abordado"
   },
   {
-    "form_1s": "habré abordado",
-    "form_2s": "habrás abordado",
-    "form_3s": "habrá abordado",
-    "form_1p": "habremos abordado",
-    "form_2p": "habréis abordado",
-    "form_3p": "habrán abordado"
+    "Yo": "habré abordado",
+    "Tú": "habrás abordado",
+    "Él/Ella/Usted": "habrá abordado",
+    "Nosotros": "habremos abordado",
+    "Vosotros": "habréis abordado",
+    "Ellos/Ellas/Ustedes": "habrán abordado"
   },
   {
-    "form_1s": "había abordado",
-    "form_2s": "habías abordado",
-    "form_3s": "había abordado",
-    "form_1p": "habíamos abordado",
-    "form_2p": "habíais abordado",
-    "form_3p": "habían abordado"
+    "Yo": "había abordado",
+    "Tú": "habías abordado",
+    "Él/Ella/Usted": "había abordado",
+    "Nosotros": "habíamos abordado",
+    "Vosotros": "habíais abordado",
+    "Ellos/Ellas/Ustedes": "habían abordado"
   },
   {
-    "form_1s": "hube abordado",
-    "form_2s": "hubiste abordado",
-    "form_3s": "hubo abordado",
-    "form_1p": "hubimos abordado",
-    "form_2p": "hubisteis abordado",
-    "form_3p": "hubieron abordado"
+    "Yo": "hube abordado",
+    "Tú": "hubiste abordado",
+    "Él/Ella/Usted": "hubo abordado",
+    "Nosotros": "hubimos abordado",
+    "Vosotros": "hubisteis abordado",
+    "Ellos/Ellas/Ustedes": "hubieron abordado"
   },
   {
-    "form_1s": "habría abordado",
-    "form_2s": "habrías abordado",
-    "form_3s": "habría abordado",
-    "form_1p": "habríamos abordado",
-    "form_2p": "habríais abordado",
-    "form_3p": "habrían abordado"
+    "Yo": "habría abordado",
+    "Tú": "habrías abordado",
+    "Él/Ella/Usted": "habría abordado",
+    "Nosotros": "habríamos abordado",
+    "Vosotros": "habríais abordado",
+    "Ellos/Ellas/Ustedes": "habrían abordado"
   },
   {
-    "form_1s": "aborde",
-    "form_2s": "abordes",
-    "form_3s": "aborde",
-    "form_1p": "abordemos",
-    "form_2p": "abordéis",
-    "form_3p": "aborden"
+    "Yo": "aborde",
+    "Tú": "abordes",
+    "Él/Ella/Usted": "aborde",
+    "Nosotros": "abordemos",
+    "Vosotros": "abordéis",
+    "Ellos/Ellas/Ustedes": "aborden"
   },
   {
-    "form_1s": "abordara",
-    "form_2s": "abordaras",
-    "form_3s": "abordara",
-    "form_1p": "abordáramos",
-    "form_2p": "abordarais",
-    "form_3p": "abordaran"
+    "Yo": "abordara",
+    "Tú": "abordaras",
+    "Él/Ella/Usted": "abordara",
+    "Nosotros": "abordáramos",
+    "Vosotros": "abordarais",
+    "Ellos/Ellas/Ustedes": "abordaran"
   },
   {
-    "form_1s": "abordare",
-    "form_2s": "abordares",
-    "form_3s": "abordare",
-    "form_1p": "abordáremos",
-    "form_2p": "abordareis",
-    "form_3p": "abordaren"
+    "Yo": "abordare",
+    "Tú": "abordares",
+    "Él/Ella/Usted": "abordare",
+    "Nosotros": "abordáremos",
+    "Vosotros": "abordareis",
+    "Ellos/Ellas/Ustedes": "abordaren"
   },
   {
-    "form_1s": "haya abordado",
-    "form_2s": "hayas abordado",
-    "form_3s": "haya abordado",
-    "form_1p": "hayamos abordado",
-    "form_2p": "hayáis abordado",
-    "form_3p": "hayan abordado"
+    "Yo": "haya abordado",
+    "Tú": "hayas abordado",
+    "Él/Ella/Usted": "haya abordado",
+    "Nosotros": "hayamos abordado",
+    "Vosotros": "hayáis abordado",
+    "Ellos/Ellas/Ustedes": "hayan abordado"
   },
   {
-    "form_1s": "hubiere abordado",
-    "form_2s": "hubieres abordado",
-    "form_3s": "hubiere abordado",
-    "form_1p": "hubiéremos abordado",
-    "form_2p": "hubiereis abordado",
-    "form_3p": "hubieren abordado"
+    "Yo": "hubiere abordado",
+    "Tú": "hubieres abordado",
+    "Él/Ella/Usted": "hubiere abordado",
+    "Nosotros": "hubiéremos abordado",
+    "Vosotros": "hubiereis abordado",
+    "Ellos/Ellas/Ustedes": "hubieren abordado"
   },
   {
-    "form_1s": "hubiera abordado",
-    "form_2s": "hubieras abordado",
-    "form_3s": "hubiera abordado",
-    "form_1p": "hubiéramos abordado",
-    "form_2p": "hubierais abordado",
-    "form_3p": "hubieran abordado"
+    "Yo": "hubiera abordado",
+    "Tú": "hubieras abordado",
+    "Él/Ella/Usted": "hubiera abordado",
+    "Nosotros": "hubiéramos abordado",
+    "Vosotros": "hubierais abordado",
+    "Ellos/Ellas/Ustedes": "hubieran abordado"
   },
   {
-    "form_1s": "",
-    "form_2s": "aborda",
-    "form_3s": "abordad",
-    "form_1p": "",
-    "form_2p": "aborde",
-    "form_3p": "aborden"
+    "Yo": "",
+    "Tú": "aborda",
+    "Él/Ella/Usted": "abordad",
+    "Nosotros": "",
+    "Vosotros": "aborde",
+    "Ellos/Ellas/Ustedes": "aborden"
   },
   {
-    "form_1s": "",
-    "form_2s": "no abordes",
-    "form_3s": "no abordéis",
-    "form_1p": "",
-    "form_2p": "no aborde",
-    "form_3p": "no aborden"
+    "Yo": "",
+    "Tú": "no abordes",
+    "Él/Ella/Usted": "no abordéis",
+    "Nosotros": "",
+    "Vosotros": "no aborde",
+    "Ellos/Ellas/Ustedes": "no aborden"
   }
 ]
