@@ -12,28 +12,20 @@
     "Ellos/Ellas/Ustedes": "abordan"
   },
   {
-    "Yo": "abordaré",
-    "Tú": "abordarás",
-    "Él/Ella/Usted": "abordará",
-    "Nosotros": "abordaremos",
-    "Vosotros": "abordaréis",
-    "Ellos/Ellas/Ustedes": "abordarán"
-  },
-  {
-    "Yo": "abordaba",
-    "Tú": "abordabas",
-    "Él/Ella/Usted": "abordaba",
-    "Nosotros": "abordábamos",
-    "Vosotros": "abordabais",
-    "Ellos/Ellas/Ustedes": "abordaban"
-  },
-  {
     "Yo": "abordé",
     "Tú": "abordaste",
     "Él/Ella/Usted": "abordó",
     "Nosotros": "abordamos",
     "Vosotros": "abordasteis",
     "Ellos/Ellas/Ustedes": "abordaron"
+  },
+  {
+    "Yo": "abordaré",
+    "Tú": "abordarás",
+    "Él/Ella/Usted": "abordará",
+    "Nosotros": "abordaremos",
+    "Vosotros": "abordaréis",
+    "Ellos/Ellas/Ustedes": "abordarán"
   },
   {
     "Yo": "abordaría",
@@ -44,20 +36,28 @@
     "Ellos/Ellas/Ustedes": "abordarían"
   },
   {
+    "Yo": "abordaba",
+    "Tú": "abordabas",
+    "Él/Ella/Usted": "abordaba",
+    "Nosotros": "abordábamos",
+    "Vosotros": "abordabais",
+    "Ellos/Ellas/Ustedes": "abordaban"
+  },
+  {
+    "Yo": "estoy abordando",
+    "Tú": "estás abordando",
+    "Él/Ella/Usted": "está abordando",
+    "Nosotros": "estamos abordando",
+    "Vosotros": "estáis abordando",
+    "Ellos/Ellas/Ustedes": "están abordando"
+  },
+  {
     "Yo": "he abordado",
     "Tú": "has abordado",
     "Él/Ella/Usted": "ha abordado",
     "Nosotros": "hemos abordado",
     "Vosotros": "habéis abordado",
     "Ellos/Ellas/Ustedes": "han abordado"
-  },
-  {
-    "Yo": "habré abordado",
-    "Tú": "habrás abordado",
-    "Él/Ella/Usted": "habrá abordado",
-    "Nosotros": "habremos abordado",
-    "Vosotros": "habréis abordado",
-    "Ellos/Ellas/Ustedes": "habrán abordado"
   },
   {
     "Yo": "había abordado",
@@ -68,12 +68,12 @@
     "Ellos/Ellas/Ustedes": "habían abordado"
   },
   {
-    "Yo": "hube abordado",
-    "Tú": "hubiste abordado",
-    "Él/Ella/Usted": "hubo abordado",
-    "Nosotros": "hubimos abordado",
-    "Vosotros": "hubisteis abordado",
-    "Ellos/Ellas/Ustedes": "hubieron abordado"
+    "Yo": "habré abordado",
+    "Tú": "habrás abordado",
+    "Él/Ella/Usted": "habrá abordado",
+    "Nosotros": "habremos abordado",
+    "Vosotros": "habréis abordado",
+    "Ellos/Ellas/Ustedes": "habrán abordado"
   },
   {
     "Yo": "habría abordado",
@@ -82,6 +82,14 @@
     "Nosotros": "habríamos abordado",
     "Vosotros": "habríais abordado",
     "Ellos/Ellas/Ustedes": "habrían abordado"
+  },
+  {
+    "Yo": "hube abordado",
+    "Tú": "hubiste abordado",
+    "Él/Ella/Usted": "hubo abordado",
+    "Nosotros": "hubimos abordado",
+    "Vosotros": "hubisteis abordado",
+    "Ellos/Ellas/Ustedes": "hubieron abordado"
   },
   {
     "Yo": "aborde",
@@ -116,20 +124,20 @@
     "Ellos/Ellas/Ustedes": "hayan abordado"
   },
   {
-    "Yo": "hubiere abordado",
-    "Tú": "hubieres abordado",
-    "Él/Ella/Usted": "hubiere abordado",
-    "Nosotros": "hubiéremos abordado",
-    "Vosotros": "hubiereis abordado",
-    "Ellos/Ellas/Ustedes": "hubieren abordado"
-  },
-  {
     "Yo": "hubiera abordado",
     "Tú": "hubieras abordado",
     "Él/Ella/Usted": "hubiera abordado",
     "Nosotros": "hubiéramos abordado",
     "Vosotros": "hubierais abordado",
     "Ellos/Ellas/Ustedes": "hubieran abordado"
+  },
+  {
+    "Yo": "hubiere abordado",
+    "Tú": "hubieres abordado",
+    "Él/Ella/Usted": "hubiere abordado",
+    "Nosotros": "hubiéremos abordado",
+    "Vosotros": "hubiereis abordado",
+    "Ellos/Ellas/Ustedes": "hubieren abordado"
   },
   {
     "Yo": "",
